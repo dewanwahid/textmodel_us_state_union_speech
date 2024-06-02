@@ -1,5 +1,8 @@
 # LDA Text modelling of US State of the Union Speech
 
+## Description
+This exploratory research project was part of graduate coursework (590A).  
+
 In this report, first we briefly focus on topic modeling. Then, we discuss a special type of topic
 modelling called Latent Dirichlet Allocation (LDA) [2] [1], which is the foundation for many other
 topic models. And finally we present the results on an application of LDA on a real world data set.
