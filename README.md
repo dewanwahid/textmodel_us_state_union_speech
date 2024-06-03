@@ -1,5 +1,5 @@
 # LDA Text modelling of US State of the Union Speech
-This exploratory research project was part of graduate coursework (590A).  
+This exploratory research project was part of graduate coursework (590A) in Winter 2015.  
 
 ## Description
 Each year, the president of the United States gives a State of the Union Address and Message. In
