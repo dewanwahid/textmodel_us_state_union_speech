@@ -35,7 +35,7 @@ library(LDAvis)
 
 
 ## READING RAW DTATA FROM A FOLDER: ...............................................................
-folder1 <- file.path("C://Users/DewanFerdous/Desktop/StateOfUnionAddress", "Reagan-Obama") 
+folder1 <- file.path("StateOfUnionAddress", "Reagan-Obama") 
 
 ## CREATING CORPUS##.....................................................................
 doc.corpus <- Corpus(DirSource(folder1))
