@@ -2,35 +2,18 @@
 This exploratory research project was part of graduate coursework (590A).  
 
 ## Description
-In this report, first we briefly focus on topic modeling. Then, we discuss a special type of topic
-modelling called Latent Dirichlet Allocation (LDA) [2] [1], which is the foundation for many other
-topic models. And finally we present the results on an application of LDA on a real world data set.
+Each year, the president of the United States gives a State of the Union Address and Message. In
+these speeches, the president usually discusses different ongoing home issues as well as global issues. We
+have collected the last 25 years' speeches (i.e. from Ronald Reagan (1981) to Barak H. Obama
+(2015)) to train our State-of-Union-Address topic model.
 
-
-In each year, the president of the United State gives a State of the Union Address and Massage. In
-these speeches, they usually discuss on different ongoing home issues as well as global issues. We
-have collected those speeches for 25 years, i.e. from Ronald Reagan (1981) to Barak H. Obama
-(2015), to train our State-of-Union-Address topic model.
-
-
+In this exploratory project, we used Dirichlet Allocation (LDA) [1,2] to identify addressed topics in these speeches. 
 
 ## Getting Started
 
-### Dependencies
+### Data and Report
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* [**US State of the Union Speeches**](https://drive.google.com/drive/folders/1ozzuH5tFll2msQ1qoiB1gapVyhrL8r1N?usp=sharing)
+* [**Report**](https://drive.google.com/file/d/1hh9j3zzYlqQzPQzOmWI1-ZOKiQfev6V5/view?usp=sharing)
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
 
